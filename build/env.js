@@ -192,7 +192,7 @@ window.env = {
   "GDMSESSION": "ubuntu",
   "npm_package_dependencies__testing_library_user_event": "^12.1.10",
   "npm_package_scripts_build": "react-dotenv && react-scripts build",
-  "npm_config_argv": "{\"remain\":[],\"cooked\":[\"rum\",\"build\"],\"original\":[\"rum\",\"build\"]}",
+  "npm_config_argv": "{\"remain\":[],\"cooked\":[\"run\",\"build\"],\"original\":[\"run\",\"build\"]}",
   "npm_config_before": "",
   "npm_config_long": "",
   "npm_config_production": "",
@@ -250,5 +250,5 @@ window.env = {
   "npm_config_json": "",
   "INIT_CWD": "/home/deny/Desktop/Projetos/Reppografia_SENAI/front",
   "REACT_APP_SERVER_TO_AUTHENTICATE": "http://localhost:3000/v1/teste",
-  "REACT_APP_SERVER_BASE": "http://localhost:3000/v1/"
+  "REACT_APP_SERVER_BASE": "http://191.232.188.227:3000/v1/"
 };
