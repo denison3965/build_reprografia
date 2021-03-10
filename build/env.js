@@ -251,6 +251,6 @@ window.env = {
   "npm_package_dependencies_react_paginate": "^6.5.0",
   "npm_config_json": "",
   "INIT_CWD": "/home/deny/Desktop/Projetos/Reppografia_SENAI/front",
-  "REACT_APP_SERVER_TO_AUTHENTICATE": "http://191.232.188.227:3000/v1/teste",
-  "REACT_APP_SERVER_BASE": "http://191.232.188.227:3000/v1"
+  "REACT_APP_SERVER_TO_AUTHENTICATE": "http://localhost:3000/v1/teste",
+  "REACT_APP_SERVER_BASE": "http://localhost:3000/v1"
 };
